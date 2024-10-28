@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Anúncio de Bicicleta</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Anúncio de Bicicleta</h1>
+    <img src="sua_imagem_bicicleta.jpg" alt="Bicicleta à venda" class="bike-image">
+    
+    <section class="description">
+      <h2>Descrição</h2>
+      <p>Modelo: Mountain Bike XYZ</p>
+      <p>Estado de conservação: Ótimo estado, pouco usada</p>
+    </section>
+    
+    <section class="specs">
+      <h2>Especificações</h2>
+      <ul>
+        <li>Aro: 29</li>
+        <li>Freio: Hidráulico</li>
+        <li>Número de Marchas: 21</li>
+      </ul>
+    </section>
+    
+    <section class="price-contact">
+      <h2>Preço: R$1.200</h2>
+      <p>Para mais informações, entre em contato:</p>
+      <p>Email: <a href="mailto:exemplo@email.com">exemplo@email.com</a></p>
+      <p>Telefone: (11) 99999-9999</p>
+    </section>
+  </div>
+</body>
+</html>
